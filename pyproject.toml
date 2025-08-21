@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "yttop"
-version = "0.1.1"
+version = "0.1.2"
 description = "Fetch the top N YouTube videos from a channel/playlist and save titles + links to a timestamped .txt"
 readme = "README.md"
 requires-python = ">=3.10"
